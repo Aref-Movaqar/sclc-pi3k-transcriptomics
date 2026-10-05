@@ -1,0 +1,6 @@
+model,n,events,HR,lo,hi,p
+programme + stage,77,48,1.36,1.02,1.8,0.036
+programme + stage + NE score,77,48,1.37,1.03,1.84,0.032
+programme + stage + NE + age + sex,77,48,1.44,1.09,1.91,0.011
+NE score + stage (HR is for NE),77,48,0.92,0.69,1.23,0.56
+NE-decoupled programme (513 down / 28 up genes) + stage,77,48,1.37,1.02,1.83,0.034

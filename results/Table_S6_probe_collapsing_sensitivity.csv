@@ -1,0 +1,4 @@
+"contrast","r_logFC","FDR05_avereps","FDR05_maxmean"
+"PIK75_vs_DMSO",0.91,11951,11645
+"TGX221_vs_DMSO",0.885,194,358
+"TGX221_vs_PIK75",0.907,9477,9304

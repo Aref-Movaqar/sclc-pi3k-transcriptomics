@@ -1,0 +1,2 @@
+n_samples,n_OS,n_events,HR_per_SD,HR_lo,HR_hi,cox_p,kruskal_subtype_p,paired_PIK3CA_vs_PIK3CB_p,r_PIK3CA_prog,r_PIK3CB_prog,r_PIK3CA_PIK3CB,median_PIK3CA,median_PIK3CB
+81,77,48,1.41,1.06,1.9,0.02,0.0029,1.8e-12,0.337,0.223,0.533,3.196,2.595

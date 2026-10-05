@@ -1,0 +1,4 @@
+null,observed_z,null_mean_z,null_sd_z,frac_null_nominal_p05,empirical_p
+"random genes, size-matched",2.1,-0.01,1.37,0.157,0.135
+"random genes, matched on correlation with NE score",2.1,0.09,1.44,0.173,0.151
+"subtype (Kruskal-Wallis chi2), random genes size-matched",14,7.13,5.29,0.373,0.114

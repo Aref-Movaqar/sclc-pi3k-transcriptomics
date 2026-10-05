@@ -1,0 +1,4 @@
+PIK3CA_hotspot,PTEN_damaging,n,median_PIK3CA,median_PIK3CB,pct_PIK3CA_dependent
+FALSE,FALSE,20,-0.42,-0.16,40
+FALSE,TRUE,4,-0.34,-0.29,25
+TRUE,FALSE,1,-1.51,-0.04,100

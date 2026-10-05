@@ -1,0 +1,3 @@
+contrast,pearson,spearman,sign_concordance_sig_both,DEG_maxmean,DEG_avereps,jaccard_DEG
+PIK75_vs_DMSO,0.91,0.923,0.985,781,485,0.507
+TGX221_vs_DMSO,0.885,0.877,1,0,0,0

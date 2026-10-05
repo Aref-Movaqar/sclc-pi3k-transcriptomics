@@ -1,0 +1,7 @@
+processing,contrast,genes,FDR05,up2,down2,frac_negative,r_logFC_vs_main
+submitter_RMA,PIK75_vs_DMSO,17458,11645,51,730,0.403,1
+submitter_RMA,TGX221_vs_DMSO,17458,358,0,0,0.518,1
+own_RMA,PIK75_vs_DMSO,17459,11642,50,729,0.403,1
+own_RMA,TGX221_vs_DMSO,17459,355,0,0,0.518,1
+spike_anchored_no_quantile,PIK75_vs_DMSO,17505,8009,21,1504,0.57,0.975
+spike_anchored_no_quantile,TGX221_vs_DMSO,17505,727,0,0,0.477,0.863
