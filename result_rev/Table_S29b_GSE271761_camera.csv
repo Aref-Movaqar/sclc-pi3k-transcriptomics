@@ -1,0 +1,15 @@
+contrast,set,n,mean_log2FC,direction,camera_p
+alpelisib 5 uM 6 h vs DMSO,SREBF_R,40,-0.186,Down,0.057
+alpelisib 5 uM 6 h vs DMSO,chol_biosynthesis_R,24,-0.323,Down,0.024
+alpelisib 5 uM 6 h vs DMSO,chol_homeostasis,64,0.032,Up,0.42
+alpelisib 5 uM 6 h vs DMSO,mTORC1,181,-0.395,Down,0.02
+alpelisib 5 uM 6 h vs DMSO,hypoxia,138,0.019,Up,0.63
+alpelisib 5 uM 6 h vs DMSO,glycolysis,158,-0.174,Down,0.022
+alpelisib 5 uM 6 h vs DMSO,PI3K_AKT_MTOR,85,-0.252,Down,0.018
+sgPIK3CA vs sgControl,SREBF_R,40,0.092,Up,0.093
+sgPIK3CA vs sgControl,chol_biosynthesis_R,24,0.093,Up,0.12
+sgPIK3CA vs sgControl,chol_homeostasis,64,0.061,Up,0.32
+sgPIK3CA vs sgControl,mTORC1,181,-0.199,Down,0.012
+sgPIK3CA vs sgControl,hypoxia,138,0.078,Down,0.98
+sgPIK3CA vs sgControl,glycolysis,158,-0.062,Down,0.0096
+sgPIK3CA vs sgControl,PI3K_AKT_MTOR,85,-0.043,Down,0.072
